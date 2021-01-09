@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+currencyconverter
+seaborn
+wordcloud
+nltk
+sklearn # Podobienstwo kosinusowe
