@@ -1,0 +1,12 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - wordcloud
+  - nltk
+  - sklearn
+  - currencyconverter
